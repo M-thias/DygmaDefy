@@ -8,7 +8,7 @@ See https://github.com/sebasmonia/dotfiles/blob/master/DygmaRaise/README.md for 
 
 ## Layers
 
-Layers 5 through to 10 are not used yet.
+Layers 4 through to 10 are not used yet.
 
 ### Layer 1 - Base
 ![Layer 1](Layer01-current.png)
