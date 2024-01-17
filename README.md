@@ -8,15 +8,20 @@ See https://github.com/sebasmonia/dotfiles/blob/master/DygmaRaise/README.md for 
 
 ## Layers
 
-Layers 4 through to 10 are not used yet.
+So far I am only making minimal changes, focusing instead on typing and getting to an at least tolerable typing speed and accuracy.'
+
+Layer 4 I've begun to use for experiments and learning the system and layers 5 through to 10 are not used yet.
 
 ### Layer 1 - Base
 ![Layer 1](Layer01-current.png)
 
-### Layer 2 - Num and Arrow keys
+### Layer 2 - Num and Navigation keys
 ![Layer 2](Layer02-current.png)
 
-### Layer 3 - F-keys, Media and Display keys
+### Layer 3 - Fn, Media and Display keys
 ![Layer 3](Layer03-current.png)
 
-### Layer 4 - 10 - Not used yet
+### Layer 4 - Experimental
+![Layer 3](Layer04-current.png)
+
+### Layer 5 - 10 - Not used yet
