@@ -11,11 +11,14 @@ Windows 11 Pro 22H2, running on a desktop computer
 
 ### Defy hardware
 XTU - Wired, Tenting, Underglow
-Gateron G Pro 2.0 Yellow switches 
+
+Gateron G Pro 2.0 Yellow switches
+
 English US Keycaps
 
 ### Versions
 Firmware: 1.1.0
+
 Bazecor: 1.3.10
 
 ## Layers
