@@ -1,6 +1,6 @@
 # Dygma Defy configuration
 
-After buying into the Kickstarter on July 1, 2022 and patiently waiting since, the Defy was delivered today, January 13, 2024 and the journey can finally begin. I installed the Bazecor software, currently in version 1.3.10 and am starting to familiarize myself. I have found the good example of Sebastián Monía who documented his Raise setup in a way I really liked, particularly the need to document not just the configuration itself but also reasoning for it.
+After buying into the Kickstarter on July 1, 2022 and patiently waiting since, the Defy was delivered today, January 13, 2024 and the journey can finally begin. I had earlier already installed the Bazecor software to begin to familiarize myself. I have found the good example of Sebastián Monía who documented his Raise setup in a way I really liked, particularly the need to document not just the configuration itself but also reasoning for it.
 
 See https://github.com/sebasmonia/dotfiles/blob/master/DygmaRaise/README.md for reference.
 
