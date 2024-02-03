@@ -19,7 +19,7 @@ English US Keycaps
 ### Versions
 Firmware: 1.1.0
 
-Bazecor: 1.3.10
+Bazecor: 1.3.11
 
 ## Layers
 
@@ -29,6 +29,8 @@ Layer 4 I've begun to use for experiments and learning the system and layers 5 t
 
 ### Layer 1 - Base
 I find that not having a Caps Lock indicator in combination with the new layout is giving me a bit of trouble and since I am not using Caps Lock, it's off the layout.
+
+I also found that I miss having dedicated Ctrl and Alt keys, so I am going to try ditching the dual function Enter keys and the LT1 that came configured as Superkey.
 
 ![Layer 1](Layer01-current.png)
 
