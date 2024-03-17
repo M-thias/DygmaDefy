@@ -25,9 +25,9 @@ Bazecor: 1.4.0-rc.1
 
 ## Layers
 
-So far I am only making minimal changes, focusing instead on typing and getting to an at least tolerable typing speed and accuracy.
+I made only minimal changes, focusing on typing and getting to a tolerable typing speed and accuracy.
 
-Layer 4 I've begun to use for experiments and learning the system and layers 5 through to 10 are not used yet.
+Layer 4 I've begun to use for experiments and learning the system and layers 5 through 10 are not used yet.
 
 ### Layer 1 - Base
 I find that not having a Caps Lock indicator in combination with the new layout is giving me a bit of trouble and since I am not using Caps Lock, it's off the layout.
@@ -36,12 +36,12 @@ I also found that I miss having dedicated Ctrl and Alt keys, so I am going to tr
 
 ![Layer 1](Layer01-current.png)
 
-### Layer 2 - Num and Navigation keys
+### Layer 2 - Fn, Nav and Media keys
+I flipped layers 2 and 3 and somewhat consolidated my more used functions into what is now layer 2: function keys, media controls and navigation/arrow keys.
 ![Layer 2](Layer02-current.png)
 
-### Layer 3 - Fn, Media and Display keys
-The shuffle key does not appear to do anything, so that got removed. The display brightness increase/decrease keys did work, Windows shows the on-screen display, but my hardware seems to not support it, no change on my screens. Maybe that is only a laptop thing. I removed those keys.
-
+### Layer 3 - Num and Navigation keys
+Still keeping the Num layer around, though I found that I did not miss having the dedicated num-block on the keyboard. I also purchased a separate bluetooth numpad, anticipating I would miss the num-block, but as it turned out, I did not use that either, not even during tax-filing time. I might eventually drop this.
 ![Layer 3](Layer03-current.png)
 
 ### Layer 4 - Experimental
