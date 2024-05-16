@@ -7,7 +7,7 @@ See https://github.com/sebasmonia/dotfiles/blob/master/DygmaRaise/README.md for 
 ## General Settings
 
 ## Environment
-Windows 11 Pro 22H2, running on a desktop computer
+Windows 11 Pro 23H2, running on a desktop computer
 
 I mostly use US-International as my input language, I used to occasionally switch to German, but less so now that I have the Defy.
 
