@@ -21,7 +21,7 @@ English US Keycaps
 ### Versions
 Firmware: 1.1.0
 
-Bazecor: 1.4.0
+Bazecor: 1.4.1
 
 ## Layers
 
