@@ -7,7 +7,7 @@ See https://github.com/sebasmonia/dotfiles/blob/master/DygmaRaise/README.md for 
 ## General Settings
 
 ## Environment
-Windows 11 Pro 23H2, running on a desktop computer
+Windows 11 Pro 24H2, running on a desktop computer
 
 I mostly use US-International as my input language, I used to occasionally switch to German, but less so now that I have the Defy.
 
@@ -21,7 +21,7 @@ English US Keycaps
 ### Versions
 Firmware: 1.1.0
 
-Bazecor: 1.6.0
+Bazecor: 1.6.1
 
 ## Layers
 
