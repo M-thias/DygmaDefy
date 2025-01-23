@@ -27,7 +27,7 @@ Bazecor: 1.6.2
 
 I made only minimal changes, focusing on typing and getting to a tolerable typing speed and accuracy.
 
-Layer 4 I had initially used for experiments and learning the system and then dedicated it to German and layer 5 will now become my Flight Simulator layer. Layers 6hrough 10 are not used yet.
+Layer 4 I had initially used for experiments and learning the system and then dedicated it to German and layer 5 will now become my Flight Simulator layer. Layers 6 through 10 are not used yet.
 
 ### Layer 1 - Base
 I find that not having a Caps Lock indicator in combination with the new layout is giving me a bit of trouble and since I am not using Caps Lock, it's off the layout.
