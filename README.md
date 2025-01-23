@@ -21,13 +21,13 @@ English US Keycaps
 ### Versions
 Firmware: 1.1.0
 
-Bazecor: 1.6.1
+Bazecor: 1.6.2
 
 ## Layers
 
 I made only minimal changes, focusing on typing and getting to a tolerable typing speed and accuracy.
 
-Layer 4 I've begun to use for experiments and learning the system and layers 5 through 10 are not used yet.
+Layer 4 I had initially used for experiments and learning the system and then dedicated it to German and layer 5 will now become my Flight Simulator layer. Layers 6hrough 10 are not used yet.
 
 ### Layer 1 - Base
 I find that not having a Caps Lock indicator in combination with the new layout is giving me a bit of trouble and since I am not using Caps Lock, it's off the layout.
@@ -44,10 +44,15 @@ I flipped layers 2 and 3 and somewhat consolidated my more used functions into w
 Still keeping the Num layer around, though I found that I did not miss having the dedicated num-block on the keyboard. I also purchased a separate bluetooth numpad, anticipating I would miss the num-block, but as it turned out, I did not use that either, not even during tax-filing time. I might eventually drop this.
 ![Layer 3](Layer03-current.png)
 
-### Layer 4 - Experimental
+### Layer 4 - German
+I dropped my German letters in here, that is how I use these for now and I like it, I will probably keep it like this and might add other rarely used special characters in this layer.
 ![Layer 4](Layer04-current.png)
 
-### Layer 5 - 10 - Not used yet
+### Layer 5 - Flight Simulator
+I want to make myself a layer with the most important keyboard controls for Microsoft Flight Simulator.
+No picture of this yet.
+
+### Layer 6 - 10 - Not used
 
 ### For reference, this is what I previously used, the Microsoft Ergonomic Keyboard
 Of course the Defy is a massive upgrade, but this keyboard got me into the comfortable combination of split layout and tenting.
