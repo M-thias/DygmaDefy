@@ -19,9 +19,9 @@ Gateron G Pro 2.0 Yellow switches
 English US Keycaps
 
 ### Versions
-Firmware: 1.1.0
+Firmware: 2.0.0
 
-Bazecor: 1.6.2
+Bazecor: 1.6.5
 
 ## Layers
 
