@@ -29,7 +29,7 @@ I like to change the color scheme every so often and found that some system will
 
 16 color slots are available. I reserve slot 1 to black, 2 to white and 3 to the 'main' color.
 
-![Colors](Colors.png)
+![Colors](colors.png)
 
 ## Layers
 
