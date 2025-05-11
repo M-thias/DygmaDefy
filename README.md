@@ -21,7 +21,15 @@ English US Keycaps
 ### Versions
 Firmware: 2.0.0
 
-Bazecor: 1.6.5
+Bazecor: 1.7.0
+
+## Colors
+
+I like to change the color scheme every so often and found that some system will be helpful to have an easier time to change colors while still keeping some distinction of certain key functions.
+
+16 color slots are available. I reserve slot 1 to black, 2 to white and 3 to the 'main' color.
+
+![Colors](Colors.png)
 
 ## Layers
 
