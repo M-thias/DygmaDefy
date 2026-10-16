@@ -27,7 +27,7 @@ Bazecor: 1.11.0
 
 I like to change the color scheme every so often and found that some system will be helpful to have an easier time to change colors while still keeping some distinction of certain key functions.
 
-16 color slots are available. I reserve slot 1 to black, 2 to white and 3 to the 'main' color.
+16 color slots are available. I reserve slot 1 to black, 2 to white and 3 to the 'main' color, my current preference. I keep layer control keys on the thumb clusters in yellow for now.
 
 ![Colors](colors.png)
 
