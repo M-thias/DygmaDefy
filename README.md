@@ -7,7 +7,7 @@ See https://github.com/sebasmonia/dotfiles/blob/master/DygmaRaise/README.md for 
 ## General Settings
 
 ## Environment
-Windows 11 Pro 24H2, running on a desktop computer
+Windows 11 Pro 26H2, running on a desktop computer
 
 I mostly use US-International as my input language, I used to occasionally switch to German, but less so now that I have the Defy.
 
@@ -19,9 +19,9 @@ Gateron G Pro 2.0 Yellow switches
 English US Keycaps
 
 ### Versions
-Firmware: 2.0.0
+Firmware: 2.3.0
 
-Bazecor: 1.7.0
+Bazecor: 1.11.0
 
 ## Colors
 
